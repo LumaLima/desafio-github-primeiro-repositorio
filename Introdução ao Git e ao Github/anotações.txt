@@ -1,0 +1,17 @@
+Comandos git
+
+1. git commit
+2. git add
+3. git init
+4. git clone
+5. git status
+6. git branch
+7. git merge
+8. git checkout
+9. git revert
+10. git rm
+11. git pull
+12. git stash
+13. git config
+14. git reset
+15. git push
